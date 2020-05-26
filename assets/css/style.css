@@ -1,0 +1,22 @@
+body{
+    background-color: turquoise;
+}
+button{
+    background-color: blueviolet;
+    cursor: pointer;
+    width: 150px;
+    padding: 10px 0px;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 2px 1px 1px;
+    
+}
+#getText{
+    background-color: rgb(170, 29, 5);
+    }
+
+#GetUsers{
+    background-color: rgb(5, 8, 170);
+        }
